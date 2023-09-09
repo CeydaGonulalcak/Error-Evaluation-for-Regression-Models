@@ -1,0 +1,2 @@
+# Error-Evaluation-for-Regression-Models
+In this project, we need to develop a linear regression model on the data set where employees' years of experience and salary information are given. In the first step, we will create a linear regression model equation according to the given bias (intercept) and weight (slope) values. We will then use this model to estimate salaries for all years of experience in the data set. Finally, we will calculate the Mean Square Error (MSE), Root Mean Square Error (RMSE) and Mean Absolute Error (MAE) scores to measure the success of the model.
